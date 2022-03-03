@@ -86,6 +86,6 @@ If you don't want to keep your computer on 24/7 to host the bot, I recommend a $
 ### Notes
 I created this bot for my server more than anything, if you have any doubt don't hesitate to talk to me at discord: Mix#8164.
 
-Thanks Tienei to help me with some shits like ModEnum, Functions and more. Love u. <3
+Thanks Tienei for help me with some shits like ModEnum, Functions and more. Love u. <3
 
 <img src="https://cdn.discordapp.com/attachments/879092238964101150/948843509685841950/unknown.png"></img>
