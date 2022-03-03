@@ -1,0 +1,32 @@
+{
+  "name": "GulagBot",
+  "version": "1.0.0",
+  "description": "A bot for Gulag Servers",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoMitori/GulagBot.git"
+  },
+  "keywords": [
+    "Yes"
+  ],
+  "author": "Mix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NekoMitori/GulagBot/issues"
+  },
+  "homepage": "https://github.com/NekoMitori/GulagBot#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "cli-box": "^6.0.10",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "mysql": "^2.18.1",
+    "quick.db": "^7.1.3"
+  }
+}
