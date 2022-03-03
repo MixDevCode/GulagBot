@@ -10,7 +10,7 @@
  * MYSQL
  
 ## Setup
-1. Clone this repository: `git clone https://github.com/NekoMitori/GulagBot.git`
+1. Clone this repository: `git clone https://github.com/MixDevCode/GulagBot.git`
 2. Install dependencies with `npm i`
 3. Edit `Config.js`, replacing the placeholder values with your desired command prefix, bot token (If you 
    don't have one yet, see the note below on how to generate one), domain name, osu api key, etc.
