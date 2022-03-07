@@ -37,7 +37,6 @@ After adding the bot to a server, call its command via `!bot` where "!bot" is th
 * `!bot info` to see current server info like total users, online users, domain, etc.
 * `!bot osuavatar` to see your current avatar.
 * `!bot mapleaderboard (or ml)` to see the first 10 scores of a map.
-* `!bot compare (or c)*` to compare the most recent play showed in chat from any bot (Tiny Bot, OwO Bot, etc).
 
 ### Standard Commands
 * `!bot osu*` to see your std information.
