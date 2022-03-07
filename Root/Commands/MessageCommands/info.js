@@ -14,7 +14,7 @@ module.exports = {
                 
             let lastplayer = await api().get('get_player_info', {
                 params: {
-                    id: playercount.data.counts.total+2,
+                    id: playercount.data.counts.total+1,
                     scope: 'all'
                 }
                 });
