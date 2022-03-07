@@ -6,10 +6,9 @@ module.exports = {
     apikey: "osuapikeyv1",
     domain: "https://osu.mixdev.online/",
     logourl: "https://i.imgur.com/iNsmXig.png",
-    // DB START
     dbhost: "localhost",
     dbuser: "root",
-    // dbpassword: "root",
+    /* REMOVE THE // BELOW IF YOU USE PASSWORD */
+    //dbpass: "root",
     dbname: "gulag",
-    // DB END
 }
