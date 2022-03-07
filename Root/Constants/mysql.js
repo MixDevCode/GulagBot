@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 const botConfig = require('../../Config.js')
 module.exports = () => {
-	if(botConfig.dbpass.length < 1) {
+	if(!botConfig.dbpass) {
 		const con = mysql.createConnection({
 			host: botConfig.dbhost,
 			user: botConfig.dbuser,
