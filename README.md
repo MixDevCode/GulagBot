@@ -17,7 +17,7 @@
 5. Import `gulagbot.sql` in the database.
 6. Start the bot with `node .`
 7. Add the bot to the server of your choice by filling out the details in this 
-   [handy application](https://discordapi.com/permissions.html#7168) and clicking the generated link.
+   [handy application](https://discordapi.com/permissions.html#137439333440) and clicking the generated link.
 
 That's it! You can now try out the default commands like `!bot info`, or create your own and restart the bot to use them.
 
