@@ -9,7 +9,7 @@ module.exports = () => {
 		});
 		return con;
 	} else {
-		cosnt con = mysql.createConnection({
+		const con = mysql.createConnection({
 			host: botConfig.dbhost,
 			user: botConfig.dbuser,
 			password: botConfig.dbpass,
